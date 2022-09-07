@@ -18,15 +18,52 @@
 }
 
 .carousel-caption {
-    bottom: 140px;
+    bottom: 100px;
     padding-left: 80px;
     padding-right: 80px;
 }
 
-.carousel-caption h5 {
+/* .carousel-caption h5 {
     font-size: 70px;
     font-weight: 700px;
-}
+} */
 
 /* banner section style end */
 /* header section */
+
+/* main section */
+.course-heading {
+    font-size: 50px;
+    font-weight: 700px;
+}
+
+.card-text-cost {
+    font-weight: bold;
+}
+
+.ready-btn {
+    padding: 15px;
+    border: 1px solid rgb(33, 161, 247);
+    border-radius: 5px;
+    margin: 30px 0 0 300px;
+}
+
+.logo img {
+    padding-right: 35px;
+}
+
+/* main section */
+
+/* footer section style */
+.footer {
+    background-color: #000;
+
+}
+
+.social-icons a i {
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+
+/* footer section style */
